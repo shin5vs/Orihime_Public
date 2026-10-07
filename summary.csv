@@ -1,0 +1,12 @@
+trial,kill_to_external_exit_ms,kill_to_supervisor_detection_ms,kill_to_restart_attempt_ms,kill_to_restart_complete_ms,outcome
+trial01,618.059,617.232,617.681,2126.874,restart_completed
+trial010,4859.6,4857.695,4858.554,6362.856,restart_completed
+trial011,4142.239,4137.58,4138.065,5641.434,restart_completed
+trial02,4144.503,4143.803,4144.23,5652.649,restart_completed
+trial03,2644.72,2642.99,2643.607,4153.913,restart_completed
+trial04,5066.475,5062.743,,,restart_limit
+trial05,4681.276,4680.319,4680.955,6185.194,restart_completed
+trial06,2863.183,2862.826,2863.249,4366.864,restart_completed
+trial07,4410.615,4410.067,,,restart_limit
+trial08,1477.224,1474.924,,,restart_limit
+trial09,2159.116,2156.2,,,restart_limit
